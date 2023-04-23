@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "CPU_Records" ALTER COLUMN "metrics" SET DATA TYPE DOUBLE PRECISION[];
