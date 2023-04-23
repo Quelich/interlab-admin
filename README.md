@@ -1,9 +1,4 @@
 ## Getting Started
-
-System design: https://drive.google.com/file/d/1sIYFCHPmIEzcpTdFn-Oe4Zt9jfU51bce/view?usp=sharing  
-Frontend design: https://www.figma.com/file/sbe2JCCJUoTPJRVWzmnJI8/Interlab?node-id=0%3A1&t=MrlzcJPNDhvMpFMd-1
-Database ER Diagram: https://app.diagrams.net/#G1SPV7ekFra0A_gwIeEUgejP_AqmFnqDlX
-
 # Techstack 
 
 - Frontend: React(React Icons), [TailwindCSS](https://tailwindui.com/), [NextUI](https://nextui.org/)
